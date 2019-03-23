@@ -1,13 +1,14 @@
 ---
 title: "Edge "
 categories:
-  - Edge
+  - Programming
 tags:
   - content
   - css
   - edge case
   - lists
   - markup
+pr : programming
 ---
 
 Nested and mixed lists are an interesting beast. It's a corner case to make sure that
