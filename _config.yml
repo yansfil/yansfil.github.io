@@ -110,11 +110,8 @@ author:
   avatar           : "/assets/images/me.png"
   bio              : "발전하는 삶을 추구합니다. 남에게 좋은 영향을 주는 교육자가 될 것입니다."
   location         : "Seoul, Korea"
-  email            :
+  email            : "tansfil@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "tansfil@gmail.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url : "https://www.facebook.com/hoyun.lee.10"
