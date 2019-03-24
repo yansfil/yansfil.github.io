@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Programming"
-    url: /Programming/
   - title: "Posts"
     url: /year-archive/
+  - title: "categories"
+    url: /categories/
